@@ -12,8 +12,21 @@ As a proof-of-concept (POC), you are only required to do this for a single stati
 
 At a later stage, the team anticipates extending the report to include lists of locations, different forecasting sources, different update frequencies, and other weather metrics such as wind speed and direction, precipitation, and visibility.
 
+**You must extract and store the following data every day at noon, local time, for Casablanca, Morocco:
+
+The actual temperature (in degrees Celsius)
+The forecasted temperature (in degrees Celsius) for the following day at noon.
+**
 # Data Source
 For this practice project, you'll use the weather data package provided by the open source project wttr.in, a web service that provides weather forecast information in a simple and text-based format. For further information, you can read more about the service on its GitHub Repo. https://github.com/chubin/wttr.in#readme
+
+# Skills gained and used
+Shell scripting (BASH)
+Download raw weather data
+Extract data of interest from the raw data
+Transform the data as required
+Load the data into a log file using a tabular format
+Schedule the entire process to run automatically at a set time daily
 
 
 
