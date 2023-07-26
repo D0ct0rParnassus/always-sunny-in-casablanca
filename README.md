@@ -21,12 +21,12 @@ The forecasted temperature (in degrees Celsius) for the following day at noon.
 For this practice project, you'll use the weather data package provided by the open source project wttr.in, a web service that provides weather forecast information in a simple and text-based format. For further information, you can read more about the service on its GitHub Repo. https://github.com/chubin/wttr.in#readme
 
 # Skills gained and used
-Shell scripting (BASH)
-Download raw weather data
-Extract data of interest from the raw data
-Transform the data as required
-Load the data into a log file using a tabular format
-Schedule the entire process to run automatically at a set time daily
+Shell scripting (BASH);
+Download raw weather data;
+Extract data of interest from the raw data;
+Transform the data as required;
+Load the data into a log file using a tabular format;
+Schedule the entire process to run automatically at a set time daily;
 
 
 
